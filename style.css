@@ -3,7 +3,7 @@ body{
 }
 
 h2{
-    font-size: 5vh;
+    font-size: 4.2vh;
 }
 #container{
     display: flex;
@@ -64,5 +64,5 @@ h2{
 .madewith{
     color:wheat;
     font-family: monospace;
-    padding-top: 50vh;
+    padding-top: 46vh;
 }
